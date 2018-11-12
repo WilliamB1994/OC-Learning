@@ -5,3 +5,10 @@ C:\Users\William\Documents\OpenClasserooms\C#\MaPremiereApplication\MaPremiereAp
 C:\Users\William\Documents\OpenClasserooms\C#\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.csproj.CoreCompileInputs.cache
 C:\Users\William\Documents\OpenClasserooms\C#\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.exe
 C:\Users\William\Documents\OpenClasserooms\C#\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.pdb
+C:\xampp\htdocs\Dev\OC-Learning\C#\MaPremiereApplication\MaPremiereApplication\bin\Debug\MaPremiereApplication.exe.config
+C:\xampp\htdocs\Dev\OC-Learning\C#\MaPremiereApplication\MaPremiereApplication\bin\Debug\MaPremiereApplication.exe
+C:\xampp\htdocs\Dev\OC-Learning\C#\MaPremiereApplication\MaPremiereApplication\bin\Debug\MaPremiereApplication.pdb
+C:\xampp\htdocs\Dev\OC-Learning\C#\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.csprojAssemblyReference.cache
+C:\xampp\htdocs\Dev\OC-Learning\C#\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Dev\OC-Learning\C#\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.exe
+C:\xampp\htdocs\Dev\OC-Learning\C#\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.pdb
